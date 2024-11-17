@@ -3,6 +3,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunha02&show_icons=true&theme=tokyonight)
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunha02&layout=compact&theme=tokyonight)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/eunha02"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 👩‍💻Skills
 ### Platforms & Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white)
