@@ -9,6 +9,16 @@
 />
 </a>
 
+<br/>
+<br/>
+
+### 🏆 Certifications
+
+![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-0A66C2?style=flat)
+![CSTS](https://img.shields.io/badge/CSTS-Software%20Testing-2F80ED?style=flat)
+
+<br/>
+
 ### 🛠️ Skills
 
 **Mobile**
