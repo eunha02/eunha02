@@ -5,11 +5,11 @@
 
 ### 🏆 Certifications
 
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-0A66C2?style=flat)
-![CSTS](https://img.shields.io/badge/CSTS-Software%20Testing-2F80ED?style=flat)
-![SQLD](https://img.shields.io/badge/SQLD-Database%20Certified-4479A1?style=flat)
-![ADSP](https://img.shields.io/badge/ADSP-Data%20Analytics-FF9800?style=flat)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-National%20Certificate-2E7D32?style=flat)
+![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-0A66C2?style=for-the-badge)
+![CSTS](https://img.shields.io/badge/CSTS-Software%20Testing-2F80ED?style=for-the-badge)
+![SQLD](https://img.shields.io/badge/SQLD-Database%20Certified-4479A1?style=for-the-badge)
+![ADSP](https://img.shields.io/badge/ADSP-Data%20Analytics-FF9800?style=for-the-badge)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-National%20Certificate-2E7D32?style=for-the-badge)
 
 <br/>
 
@@ -17,27 +17,27 @@
 
 **Mobile**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Web**
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 <br/>
 
 ### ✉️Contacts
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:ssineunha@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:ssineunha@naver.com)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=vimeo&logoColor=white)](https://velog.io/@eunha02)
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssineunha@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:ssineunha@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@eunha02)
 
 <br/>
 
