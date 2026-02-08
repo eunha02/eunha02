@@ -1,7 +1,5 @@
-## Hi there 👋
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunha02&show_icons=true&theme=tokyonight)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunha02&layout=compact&theme=tokyonight)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=0:F8B195,100:F67280&fontSize=100&fontColor=ffffff&desc=I'm%20Eunha%20Jo)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F67280&width=435&lines=%EB%94%94%ED%85%8C%EC%9D%BC%EC%9D%84+%EB%86%93%EC%B9%98%EC%A7%80+%EC%95%8A%EB%8A%94+QA%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -11,27 +9,38 @@
 />
 </a>
 
-## 👩‍💻Skills
-### Platforms & Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?&style=for-the-badge&logo=php&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
+### 🛠️ Skills
 
-### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+**Mobile**
 
-<hr/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-## ✉️Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:ssineunha@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlatngus1691@naver.com)](mailto:ssineunha@naver.com)
+**Web**
 
-<hr/>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunha6536)](https://solved.ac/eunha6536/)
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+
+<br/>
+
+### ✉️Contacts
+[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:ssineunha@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:ssineunha@naver.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=vimeo&logoColor=white)](https://velog.io/@eunha02)
+
+<br/>
+
+### ✨ Stats
+
+![Anurag's GitHub stats](https://github-readme-stats-phi-six-46.vercel.app/api?username=eunha02&show_icons=true&theme=rose_pine)
+![TopLangs](https://github-readme-stats-phi-six-46.vercel.app/api/top-langs/?username=eunha02&layout=compact&theme=rose_pine)
 
 <!--
 **eungyeong12/eungyeong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
