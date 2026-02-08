@@ -7,6 +7,9 @@
 
 ![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-0A66C2?style=flat)
 ![CSTS](https://img.shields.io/badge/CSTS-Software%20Testing-2F80ED?style=flat)
+![SQLD](https://img.shields.io/badge/SQLD-Database%20Certified-4479A1?style=flat)
+![ADSP](https://img.shields.io/badge/ADSP-Data%20Analytics-FF9800?style=flat)
+![정보처리기사](https://img.shields.io/badge/정보처리기사-National%20Certificate-2E7D32?style=flat)
 
 <br/>
 
