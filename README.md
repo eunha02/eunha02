@@ -1,15 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=0:F8B195,100:F67280&fontSize=100&fontColor=ffffff&desc=I'm%20Eunha%20Jo)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F67280&width=435&lines=%EB%94%94%ED%85%8C%EC%9D%BC%EC%9D%84+%EB%86%93%EC%B9%98%EC%A7%80+%EC%95%8A%EB%8A%94+QA%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/eunha02"
-  width="600"
-  height="300"
-/>
-</a>
-
-<br/>
 <br/>
 
 ### 🏆 Certifications
@@ -51,6 +42,16 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-phi-six-46.vercel.app/api?username=eunha02&show_icons=true&theme=rose_pine)
 ![TopLangs](https://github-readme-stats-phi-six-46.vercel.app/api/top-langs/?username=eunha02&layout=compact&theme=rose_pine)
+
+<br/>
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/eunha02"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--
 **eungyeong12/eungyeong12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
