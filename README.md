@@ -3,13 +3,15 @@
 
 <br/>
 
-### 🏆 Certifications
+### 🏆 Certificates
 
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-0A66C2?style=for-the-badge)
-![CSTS](https://img.shields.io/badge/CSTS-Software%20Testing-2F80ED?style=for-the-badge)
-![SQLD](https://img.shields.io/badge/SQLD-Database%20Certified-4479A1?style=for-the-badge)
-![ADSP](https://img.shields.io/badge/ADSP-Data%20Analytics-FF9800?style=for-the-badge)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-National%20Certificate-2E7D32?style=for-the-badge)
+| 자격증 | 발급기관 | 취득일 |
+|--------|----------|--------|
+| 정보처리기사 | 한국산업인력공단 | 2024. |
+| SQLD | 한국데이터산업진흥원 | 2024. |
+| ADSP | 한국데이터산업진흥원 | 2024. |
+| ISTQB | 사단법인 케이에스티큐비(KSTQB) | 2025. |
+| CSTS | 한국정보통신기술협회(TTA) | 2025. |
 
 <br/>
 
